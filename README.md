@@ -1,90 +1,21 @@
-<h1 align="center">Abinash Mohanty</h1>
-<h3 align="center">Full-Stack Systems Engineer | Real-Time Web Architect</h3>
+# About Me:
+Abinash Mohanty<br>Full-Stack Systems Engineer | Real-Time Web Architect<br>Building scalable systems with real-time collaboration, containerized execution, and production-grade DevOps.<br><br>
 
-<p align="center">
-  Building scalable systems with real-time collaboration, containerized execution, and production-grade DevOps.
-</p>
 
----
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cyZarcUr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abinash_32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinash-iiitb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abinashiiitb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32433230) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abinash60476961) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinashiiitb@gmail.com) 
 
-## 🚀 Featured Projects
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbinashIIITB&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbinashIIITB&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinashIIITB&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🧠 CodeLab – Scalable Online Judge
-A production-grade online judge with secure containerized execution.
-
-- Docker-based sandbox with strict resource isolation  
-- Redis + BullMQ async job pipeline (zero dropped jobs under burst load)  
-- Real-time submission tracking & live leaderboard via WebSockets  
-- Turborepo monorepo architecture  
-
-**Tech:** Next.js • Express • Docker • Redis • Socket.IO
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbinashIIITB&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AbinashIIITB&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### ✍️ Tandem – Real-Time Collaborative Editor
-Multi-user concurrent editing platform with live presence tracking.
-
-- WebSocket-based real-time synchronization  
-- Tiptap rich-text editor integration  
-- Document versioning & persistent state (MongoDB)  
-- Modular UI with animation-driven feedback  
-
-**Tech:** React • Node.js • MongoDB • Socket.IO
-
----
-
-### 📚 Version-Controlled Enterprise Wiki
-Git-style document snapshot system for teams.
-
-- Snapshot-based version rollback  
-- JWT authentication + RBAC  
-- Containerized deployment with Nginx reverse proxy  
-- CI/CD via GitHub Actions  
-
-**Tech:** React • Express • MySQL • Docker
-
----
-
-### 🌐 AkashTalks.in (Freelance)
-SEO-optimized education platform serving 28+ college pages.
-
-- Sub-second TTFB with optimized SSR  
-- Multi-channel lead capture (Sheets + Telegram + WhatsApp)  
-- YouTube API integration with server-side caching  
-
-**Tech:** Next.js • TypeScript • APIs
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:** C++ • TypeScript • JavaScript • Python • SQL  
-**Frontend:** React • Next.js • Vite • Tailwind  
-**Backend:** Node.js • Express • Redis • WebSockets  
-**Infrastructure:** Docker • Nginx • CI/CD • Linux  
-
----
-
-## 🧠 Currently Exploring
-
-- CRDTs for real-time collaboration systems  
-- Distributed job scheduling architectures  
-- Advanced system design patterns  
-- High-performance React applications  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbinashIIITB&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinashIIITB&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/abinash-iiitb  
-- Email: abinashiiitb@gmail.com  
-- GitHub: https://github.com/AbinashIIITB
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
